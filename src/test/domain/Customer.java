@@ -1,8 +1,14 @@
-screen
-![](https://github.com/ppc-ntu-khpi/Class-Starter/raw/main/images/result.png)
-adv screen 
-![](https://github.com/ppc-ntu-khpi/Class-Starter/raw/main/images/resadv.png)
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package test.domain;
+
+/**
+ *
+ * @author xunder
+ */
 public class Customer
 {
    private int Id=1;
