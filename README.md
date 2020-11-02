@@ -1,7 +1,7 @@
 screen
-![](https://github.com/ppc-ntu-khpi/Class-Starter/raw/main/images/result.png)
+https://drive.google.com/file/d/1Hmkhmr9DQNSqe4lvxgLeymkVOLkkOFn5/view?usp=sharing
 adv screen 
-![](https://github.com/ppc-ntu-khpi/Class-Starter/raw/main/images/resadv.png)
+https://drive.google.com/file/d/10F7k-UMCEO1QS04qZ5m4O24riT4lehq1/view?usp=sharing
 package test.domain;
 public class Customer
 {
