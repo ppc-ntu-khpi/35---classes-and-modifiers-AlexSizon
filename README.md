@@ -1,7 +1,7 @@
-screen
-https://drive.google.com/file/d/1Hmkhmr9DQNSqe4lvxgLeymkVOLkkOFn5/view?usp=sharing
-adv screen 
-https://drive.google.com/file/d/10F7k-UMCEO1QS04qZ5m4O24riT4lehq1/view?usp=sharing
+# screen
+![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-AlexSizon/blob/main/Solution/result.png)
+# adv screen 
+![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-AlexSizon/blob/main/Solution/resadv.png)
 
 ```java
 package test.domain;
