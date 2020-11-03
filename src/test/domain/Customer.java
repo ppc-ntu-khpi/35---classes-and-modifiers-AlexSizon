@@ -1,10 +1,14 @@
-# screen
-![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-AlexSizon/blob/main/Solution/result.png)
-# adv screen 
-![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-AlexSizon/blob/main/Solution/resadv.png)
-
-```java
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package test.domain;
+
+/**
+ *
+ * @author xunder
+ */
 public class Customer
 {
    private int Id=1;
@@ -58,4 +62,3 @@ public class Customer
     }
    
 }
-```
